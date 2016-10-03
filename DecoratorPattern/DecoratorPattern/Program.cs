@@ -12,6 +12,7 @@ namespace DecoratorPattern
         {
             IPizza basicPizza = new Mozzarella(new TomatoSauce( new PlainPizza()));
             Console.WriteLine("Ingredienser: " + basicPizza.getDescription());
+            Console.WriteLine(basicPizza.GetType().IsNestedFamily);
             Console.WriteLine("Pris: " + basicPizza.getCost());
             Console.ReadLine();
 

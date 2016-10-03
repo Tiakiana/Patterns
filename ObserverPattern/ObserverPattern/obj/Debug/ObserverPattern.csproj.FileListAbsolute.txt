@@ -1,0 +1,5 @@
+c:\users\amaterasu\documents\visual studio 2015\Projects\ObserverPattern\ObserverPattern\obj\Debug\ObserverPattern.csprojResolveAssemblyReference.cache
+c:\users\amaterasu\documents\visual studio 2015\Projects\ObserverPattern\ObserverPattern\bin\Debug\ObserverPattern.exe
+c:\users\amaterasu\documents\visual studio 2015\Projects\ObserverPattern\ObserverPattern\bin\Debug\ObserverPattern.pdb
+c:\users\amaterasu\documents\visual studio 2015\Projects\ObserverPattern\ObserverPattern\obj\Debug\ObserverPattern.exe
+c:\users\amaterasu\documents\visual studio 2015\Projects\ObserverPattern\ObserverPattern\obj\Debug\ObserverPattern.pdb

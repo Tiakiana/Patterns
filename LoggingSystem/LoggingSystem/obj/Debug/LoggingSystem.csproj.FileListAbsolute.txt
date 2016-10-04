@@ -1,0 +1,5 @@
+c:\users\amaterasu\documents\visual studio 2015\Projects\LoggingSystem\LoggingSystem\bin\Debug\LoggingSystem.exe
+c:\users\amaterasu\documents\visual studio 2015\Projects\LoggingSystem\LoggingSystem\bin\Debug\LoggingSystem.pdb
+c:\users\amaterasu\documents\visual studio 2015\Projects\LoggingSystem\LoggingSystem\obj\Debug\LoggingSystem.csprojResolveAssemblyReference.cache
+c:\users\amaterasu\documents\visual studio 2015\Projects\LoggingSystem\LoggingSystem\obj\Debug\LoggingSystem.exe
+c:\users\amaterasu\documents\visual studio 2015\Projects\LoggingSystem\LoggingSystem\obj\Debug\LoggingSystem.pdb
